@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @RoaringFlood
-- 👀 I’m interested in Data Analysis
+- 👀 I’m interested in Data Science
 - 🌱 I’m currently learning Tensorflow, Keras, Numpy, Pandas
 <!---
 - 💞️ I’m looking to collaborate on ...

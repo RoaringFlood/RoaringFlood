@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @RoaringFlood
+- 👋 Hi, I’m Yalçın
 - 👀 I’m interested in Data Science
 - 🌱 I’m currently learning Tensorflow, Keras, Numpy, Pandas
 <!---

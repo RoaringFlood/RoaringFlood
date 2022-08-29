@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Yalçın
-- 👀 I’m interested in Data Science
-- 🌱 I’m currently learning Tensorflow, Keras, Numpy, Pandas
+- 👀 I’m interested in Computer Vision and Data Science
+- 🌱 I’m currently learning Tensorflow, Keras, PyTorch, Numpy, Pandas
 <!---
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...

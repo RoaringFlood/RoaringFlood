@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Yalçın
-- 👀 I’m interested in Computer Vision and Data Science
+- 👀 I’m interested in Data Science and Machine Learning
 - 🌱 I’m currently learning Tensorflow, Keras, PyTorch, Numpy, Pandas
 <!---
 - 💞️ I’m looking to collaborate on ...

@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Yalçın
 - 📫 I’m currently a Java Software Developer
 - 👀 I’m interested in Back-End Development, Data Science and Machine Learning
-- 🌱 I have a good knowledge about Java, Python and Machine Learning Technologies
+- 🌱 I have a good knowledge about Java, PL/SQL, Python and Machine Learning Technologies
 
 <!---
 - 👀 I’m interested in Data Science and Machine Learning
